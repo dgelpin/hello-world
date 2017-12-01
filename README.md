@@ -1,3 +1,4 @@
 # hello-world
 1st
-1st edit.
+
+This is the 1st edit. 1207am 12/1/17.
